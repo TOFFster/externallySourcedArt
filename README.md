@@ -1,4 +1,4 @@
-externallySourcedArt
+Welcome to the "Externally Sourced Art" Repo
 ====================
 
-A repository used to store art externally sourced.
+This is a repository used to store art externally sourced art, AKA art not produced by myself.
